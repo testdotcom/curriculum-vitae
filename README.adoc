@@ -1,0 +1,8 @@
+= README
+
+Run the following command to generate a pdf:
+
+[source,bash]
+----
+typst watch 2024-calliari-cv.typ
+----
