@@ -47,8 +47,8 @@
 
 #let links = (
   (icon: "email", link: "mailto:calliari.alessio@fastmail.com"),
-  (icon: "gitlab", link: "https://gitlab.com/bucciarati", display: "bucciarati"),
-  (icon: "linkedin", link: "https://www.linkedin.com/in/alessio-calliari-1344ba243", display: "alessio-calliari")
+  (icon: "gitlab", link: "https://github.com/TestDotCom"),
+  (icon: "linkedin", link: "https://www.linkedin.com/in/alessio-calliari")
 )
 
 #align(center, text(17pt)[

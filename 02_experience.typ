@@ -6,6 +6,7 @@
 
 - Developed Ansible playbooks for system configuration and application deployment
 - Built Bash/Python tools for S3-compatible storage, enforcing retention policies and automating metric collection/reporting
+- Built go tools interfacing with Docker, in order to exec commands inside other containers 
 - Led a cloud-native transformation project:
   - Deployed a RKE2-based Kubernetes cluster for internal workloads
   - Created a Proof-of-Concept Tekton pipeline for Kubernetes-native CI/CD
@@ -25,9 +26,9 @@
 
 //= Open Source and community
 
-//= Other
+= Hobbies
 
-//== Managing a homelab
+== Managing a homelab
 
-//In my free time I manage a self-hosted homelab over a Raspberry Pi (RPi). To keep things relatively simple, it's a *Docker Compose* file of several services, such as the media server.
-//SSH'ing into the homelab is only possible via public key authentication, and a firewall (firewalld) is in place to restrict access only from the local VLAN.
+In my free time I manage a self-hosted homelab over a Raspberry Pi (RPi). To keep things relatively simple, it's a *Docker Compose* file of several services, such as the media server.
+SSH'ing into the homelab is only possible via public key authentication, and a firewall (firewalld) is in place to restrict access only from within my LAN.
