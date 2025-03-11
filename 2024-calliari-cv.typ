@@ -47,7 +47,7 @@
 
 #let links = (
   (icon: "email", link: "mailto:calliari.alessio@fastmail.com"),
-  (icon: "gitlab", link: "https://github.com/TestDotCom"),
+  (icon: "gitlab", link: "https://github.com/testdotcom"),
   (icon: "linkedin", link: "https://www.linkedin.com/in/alessio-calliari")
 )
 
