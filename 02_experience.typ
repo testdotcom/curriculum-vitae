@@ -24,6 +24,8 @@
   - Delivered hands-on workshops on container networking & security, distributed systems, and cluster deployment
   - Automated infrastructure provisioning via Terraform (AWS EC2), with customizable cluster parameters. The repository is available on GitLab #footnote[https://github.com/testdotcom/tf-k8s-cluster]
 
+#pagebreak()
+
 //= Open Source and community
 
 = Hobbies
