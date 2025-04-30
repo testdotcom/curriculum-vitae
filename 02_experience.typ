@@ -5,11 +5,12 @@
 *DevOps Engineer | 07.2024 - Present | (full-remote) Rome, Italy*
 
 - Developed Ansible playbooks for system configuration and application deployment
-- Built Bash/Python tools for S3-compatible storage, enforcing retention policies and automating metric collection/reporting
-- Built go tools interfacing with Docker, in order to exec commands inside other containers 
+- Developed custom tools and scripts to enhance team autonomy and operational efficiency:
+  - A Python script for S3-compatible storage automation, enforcing retention and automating metrics collection to improve compliance and visibility
+  - A Go tool to assist and validate the RabbitMQ 3.x to 4.x cluster migration, specifically testing Quorum Queue behavior
 - Led a cloud-native transformation project:
   - Deployed a RKE2-based Kubernetes cluster for internal workloads
-  - Created a Proof-of-Concept Tekton pipeline for Kubernetes-native CI/CD
+  - Created a Proof-of-Concept Tekton pipeline to evaluate capabilities for Kubernetes-native CI/CD
 - Led a RabbitMQ 3.x to 4.x cluster upgrade, including data migration from Classic Mirrored Queues to Quorum Queues
 - Maintained internal documentation on DevOps best practices
 
