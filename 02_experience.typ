@@ -23,7 +23,7 @@
 - Managed Kubernetes cluster lifecycle, including major version upgrades and security patching
 - Led Kubernetes training programs for Italian government institutions (_Camera dei Deputati_, _Comando per le Operazioni in Rete (COR_):
   - Delivered hands-on workshops on container networking & security, distributed systems, and cluster deployment
-  - Automated infrastructure provisioning via Terraform (AWS EC2), with customizable cluster parameters. The repository is available on GitLab #footnote[https://github.com/testdotcom/tf-k8s-cluster]
+  - Automated infrastructure provisioning via Terraform (AWS EC2), with customizable cluster parameters. The repository is available on GitHub #footnote[https://github.com/testdotcom/tf-k8s-cluster]
 
 #pagebreak()
 
