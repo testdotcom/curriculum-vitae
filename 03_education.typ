@@ -1,9 +1,5 @@
 = Education
 
-== Sapienza University of Rome | Informatica
+*Sapienza University of Rome | Informatica | A.A. 2016 — 2020*
 
-*A.A. 2016 — 2020*
-
-== Sapienza University of Rome | Computer Science — Network and Security
-
-*A.A. 2020 — 2022*
+*Sapienza University of Rome | Computer Science | A.A. 2020 — 2022*

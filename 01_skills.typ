@@ -4,5 +4,5 @@
 - *GitOps & CICD*: GitLab Pipelines, GitHub Actions
 - *Infrastructure-as-Code*: Terraform, Ansible, Docker
 - *Languages*: Go, Bash, Python, Java, Kotlin
-- *Other*: RabbitMQ, PostgreSQL
+- *Other*: RabbitMQ, PostgreSQL, Kong Gateway
 - *Sysadmin*: Linux

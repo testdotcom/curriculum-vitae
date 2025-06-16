@@ -51,7 +51,7 @@
   (icon: "linkedin", link: "https://www.linkedin.com/in/alessio-calliari")
 )
 
-#align(center, text(17pt)[
+#align(center, text(16pt)[
   *Alessio Calliari*
 ])
 
