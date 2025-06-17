@@ -1,12 +1,12 @@
-= Professional Experience 
+= Professional Experience
 
 == Zucchetti | DevOps Engineer | 07.2024 - Present | (full-remote) Rome, Italy
 
 - Responsible for (*VMware vSphere*) datacenter infrastructure supporting internal product development and deployment requirements
-- Developed and maintained automated provisioning solutions with *Terraform* and/or *Ansible playbooks*
+- Developed and maintained automated provisioning solutions with *Terraform* #footnote[https://github.com/testdotcom/vsphere-vm-provisioning] and/or *Ansible playbooks*
 - Led multiple GitOps initiatives that successfully migrated legacy services to *Infrastructure-as-Code* methodologies
 - Contributed extensively to organizational knowledge base, enhancing team productivity and system maintainability
-- Developed (*Go*, *Python*) custom tools and services for internal operations // TODO footnotes
+- Developed (*Go*, *Python*) custom tools and services for internal operations // #footnote[]
 
 == Keypartner | DevOps Engineer | 07.2022 — 06.2024 | (hybrid) Rome, Italy
 
@@ -14,7 +14,7 @@
 - Provided ongoing Kubernetes maintenance and support, including major version upgrades and additional services deployment
 - Collaborated with the development teams to establish *CI/CD* workflows based on GitLab Pipelines
 - Delivered a Kubernetes workshop for Italian government institutions (_Camera dei Deputati_, _Comando per le Operazioni in Rete (COR_), covering *distributed systems*, *networking*, *security*, *distributed storage*, *monitoring & observability*
-- Automated the provisioning of multiple Kubernetes cluster (with *Terraform* on *AWS* EC2) for the Kubernetes hands-on workshop. #footnote[https://github.com/testdotcom/tf-k8s-cluster]
+- Automated the provisioning of multiple Kubernetes cluster (with *Terraform* on *AWS* EC2) for the Kubernetes hands-on workshop. #footnote[https://github.com/testdotcom/ec2-k8s-provisioning]
 
 /*
 #pagebreak()
