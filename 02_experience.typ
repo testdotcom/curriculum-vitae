@@ -6,7 +6,7 @@
 - Developed and maintained automated provisioning solutions with *Terraform* #footnote[https://github.com/testdotcom/vsphere-vm-provisioning] and/or *Ansible playbooks*
 - Led multiple GitOps initiatives that successfully migrated legacy services to *Infrastructure-as-Code* methodologies
 - Contributed extensively to organizational knowledge base, enhancing team productivity and system maintainability
-- Developed (*Go*, *Python*) custom tools and services for internal operations // #footnote[]
+- Developed (*Go*, *Python*) custom tools and services for internal operations #footnote[https://github.com/testdotcom/clamav-middleware]
 
 == Keypartner | DevOps Engineer | 07.2022 — 06.2024 | (hybrid) Rome, Italy
 
