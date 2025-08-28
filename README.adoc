@@ -6,3 +6,8 @@ Run the following command to generate a pdf:
 ----
 typst watch 2025-calliari-cv.typ
 ----
+
+== Useful Resources
+
+* https://github.com/SimonDiff/devs-cv-typography-guidelines
+* https://github.com/GuidoPenta/galactic-CV-guide-for-developers
