@@ -1,5 +1,5 @@
-= Education
+== Education
 
-*Sapienza University of Rome | Informatica | A.A. 2016 — 2020*
+=== Sapienza University of Rome | Informatica #h(1fr) A.A. 2016 — 2020
 
-*Sapienza University of Rome | Computer Science | A.A. 2020 — 2022*
+=== Sapienza University of Rome | Computer Science #h(1fr) A.A. 2020 — 2022

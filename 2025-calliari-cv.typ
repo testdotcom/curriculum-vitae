@@ -1,3 +1,7 @@
+#set page(
+  paper: "a4",
+)
+
 // 1. The icon template will render each link's icon
 // The template takes 2 arguments, the latter is 1.5pt by default
 #let icon(name, shift: 1.5pt) = {
@@ -55,7 +59,9 @@
   *Alessio Calliari*
 ])
 
-DevOps | Platform Engineer | Technical Writer
+//#align(center, text(12pt)[
+//  *DevOps | Platform Engineer*
+//])
 
 #linksBar(links)
 

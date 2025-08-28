@@ -1,6 +1,8 @@
-= Professional Experience
+== Professional Experience
 
-== Zucchetti | DevOps Engineer | 07.2024 - Present | (full-remote) Rome, Italy
+=== Zucchetti #h(1fr) 07.2024 - Present
+
+DevOps Engineer
 
 - Responsible for (*VMware vSphere*) datacenter infrastructure supporting internal product development and deployment requirements
 - Developed and maintained automated provisioning solutions with *Terraform* #footnote[https://github.com/testdotcom/vsphere-vm-provisioning] and/or *Ansible playbooks*
@@ -8,7 +10,9 @@
 - Contributed extensively to organizational knowledge base, enhancing team productivity and system maintainability
 - Developed (*Go*, *Python*) custom tools and services for internal operations #footnote[https://github.com/testdotcom/clamav-middleware]
 
-== Keypartner | DevOps Engineer | 07.2022 — 06.2024 | (hybrid) Rome, Italy
+=== Keypartner #h(1fr) 07.2022 — 06.2024
+
+DevOps Engineer
 
 - Designed and delivered a *Kubernetes platform* based on SUSE Rancher and RKE2 for _Elettronica S.p.A._ (ELT Group)
 - Provided ongoing Kubernetes maintenance and support, including major version upgrades and additional services deployment
