@@ -1,34 +1,21 @@
 == Professional Experience
 
-=== Zucchetti #h(1fr) 07.2024 - Present
+=== Zucchetti #h(1fr) 06.2024 - Present
 
 DevOps Engineer
 
-- Responsible for (*VMware vSphere*) datacenter infrastructure supporting internal product development and deployment requirements
-- Developed and maintained automated provisioning solutions with *Terraform* #footnote[https://github.com/testdotcom/vsphere-vm-provisioning] and/or *Ansible playbooks*
-- Led multiple GitOps initiatives that successfully migrated legacy services to *Infrastructure-as-Code* methodologies
-- Contributed extensively to organizational knowledge base, enhancing team productivity and system maintainability
-- Developed (*Go*, *Python*) custom tools and services for internal operations #footnote[https://github.com/testdotcom/clamav-middleware]
+- Responsible for our datacenter infrastructure (VMware vSphere machines), while also handling deployment and monitoring of our products
+- Actively replacing manual processes with *Terraform* and *Ansible* code, following IaC best practices
+- I also develop and manage custom tools and middleware services for our internal workflows, mostly in *Go* or *Python*
+- I've led our migration to a self-hosted, containerized PostgreSQL environment, providing a middleware API layer for our internal development team
 
 === Keypartner #h(1fr) 07.2022 — 06.2024
 
 DevOps Engineer
 
-- Designed and delivered a *Kubernetes platform* based on SUSE Rancher and RKE2 for _Elettronica S.p.A._ (ELT Group)
-- Provided ongoing Kubernetes maintenance and support, including major version upgrades and additional services deployment
-- Collaborated with the development teams to establish *CI/CD* workflows based on GitLab Pipelines
-- Delivered a Kubernetes workshop for Italian government institutions (_Camera dei Deputati_, _Comando per le Operazioni in Rete (COR_), covering *distributed systems*, *networking*, *security*, *distributed storage*, *monitoring & observability*
-- Automated the provisioning of multiple Kubernetes cluster (with *Terraform* on *AWS* EC2) for the Kubernetes hands-on workshop. #footnote[https://github.com/testdotcom/ec2-k8s-provisioning]
+- Designed and built a production-ready *Kubernetes platform* (Rancher/RKE2) for _Elettronica S.p.A._ (ELT Group), handling security & compliance requirements of a defense-sector environment
+- Provided ongoing Kubernetes maintenance and support: major cluster upgrades, service provisioning, and troubleshooting
+- Collaborated with the development teams to build *CI/CD* workflows based on GitLab Pipelines, supporting the entire software development lifecycle
+- Taught a hands-on workshop for Italian government bodies (_Camera dei Deputati_, _COR_), explaining cloud-related topics like distributed systems, networking and security for containers, distributed storage, etc.
 
-/*
 #pagebreak()
-
-= Open Source and community
-
-= Hobbies
-
-== Managing a homelab
-
-In my free time I manage a self-hosted homelab over a Raspberry Pi (RPi). To keep things relatively simple, it's a *Docker Compose* file of several services, such as the media server.
-SSH'ing into the homelab is only possible via public key authentication, and a firewall (ufw) is in place to restrict access only from within my LAN.
-*/

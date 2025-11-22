@@ -50,7 +50,7 @@
 }
 
 #let links = (
-  (icon: "email", link: "mailto:calliari.alessio@fastmail.com"),
+  (icon: "email", link: "mailto:calliari.alessio@gmail.com"),
   (icon: "gitlab", link: "https://github.com/testdotcom"),
   (icon: "linkedin", link: "https://www.linkedin.com/in/alessio-calliari")
 )
@@ -59,18 +59,20 @@
   *Alessio Calliari*
 ])
 
-//#align(center, text(12pt)[
-//  *DevOps | Platform Engineer*
-//])
+#align(center, text(10pt)[
+  *DevOps Engineer | Automation*
+])
 
 #linksBar(links)
 
 #line(length: 100%)
 
-//#show: rest => columns(2, rest)
+#include "00_about.typ"
 
 #include "01_skills.typ"
 
 #include "02_experience.typ"
 
 #include "03_education.typ"
+
+#include "04_hobbies.typ"
