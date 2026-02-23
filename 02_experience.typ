@@ -5,9 +5,9 @@
 DevOps Engineer
 
 - Responsible for our datacenter infrastructure (VMware vSphere machines), while also handling deployment and monitoring of our products
-- Actively replacing manual processes with *Terraform* and *Ansible* code, following IaC best practices
+- Actively replacing manual processes with *Terraform* and *Ansible* code, and GitHub Actions or Jenkins Pipelines, following IaC best practices
 - I also develop and manage custom tools and middleware services for our internal workflows, mostly in *Go* or *Python*
-- I've led our migration to a self-hosted, containerized PostgreSQL environment, providing a middleware API layer for our internal development team
+- I've led our migration to a self-hosted, containerized PostgreSQL environment, providing a middleware API layer for our customers and our development team
 
 === Keypartner #h(1fr) 07.2022 — 06.2024
 
