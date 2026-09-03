@@ -1,21 +1,20 @@
 == Professional Experience
 
-=== Zucchetti #h(1fr) 06.2024 - Present
+=== Zucchetti #h(1fr) 06.2024 — Present
 
 DevOps Engineer
 
-- Responsible for our datacenter infrastructure (VMware vSphere machines), while also handling deployment and monitoring of our products
-- Actively replacing manual processes with *Terraform* and *Ansible* code, and GitHub Actions or Jenkins Pipelines, following IaC best practices
-- I also develop and manage custom tools and middleware services for our internal workflows, mostly in *Go* or *Python*
-- I've led our migration to a self-hosted, containerized PostgreSQL environment, providing a middleware API layer for our customers and our development team
+- Managed and maintained the internal *VMware vSphere* infrastructure, handling machine provisioning and service deployment
+- Designed and implemented *CI/CD pipelines*, streamlining workflows and eliminating manual operational overhead
+- Built powertools in *Go* for internal use, improving developers' experience
+- Led the migration from a monolithic database to a self-hosted, containerized *PostgreSQL* distributed system, while providing a middleware service for internal and customer use
+- Designed and implemented *agentic workflows* and tool harnesses for automated codebase documentation
 
 === Keypartner #h(1fr) 07.2022 — 06.2024
 
 DevOps Engineer
 
-- Designed and built a production-ready *Kubernetes platform* (Rancher/RKE2) for _Elettronica S.p.A._ (ELT Group), handling security & compliance requirements of a defense-sector environment
-- Provided ongoing Kubernetes maintenance and support: major cluster upgrades, service provisioning, and troubleshooting
-- Collaborated with the development teams to build *CI/CD* workflows based on GitLab Pipelines, supporting the entire software development lifecycle
-- Taught a hands-on workshop for Italian government bodies (_Camera dei Deputati_, _COR_), explaining cloud-related topics like distributed systems, networking and security for containers, distributed storage, etc.
-
-#pagebreak()
+- Designed and built a production-ready *Kubernetes* platform based on _RKE2_ and _Rancher_ from SUSE, for the _ELT Group_ (Italian defense sector), handling security & compliance requirements
+- Guaranteed high availability across Kubernetes major version upgrades, automated service provisioning, and observability stack
+- Collaborated with development teams to build automated *GitLab Pipelines*, managing the full SDLC and deploying via *ArgoCD* GitOps workflows
+- Taught a hands-on cloud and containers workshop for Italian public sector bodies, including _Camera dei Deputati_ and _COR_
