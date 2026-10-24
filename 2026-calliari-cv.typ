@@ -74,3 +74,5 @@
 #include "02_experience.typ"
 
 #include "03_education.typ"
+
+#include "04_hobbies.typ"
