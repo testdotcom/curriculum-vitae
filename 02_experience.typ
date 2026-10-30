@@ -1,23 +1,24 @@
 == Professional Experience
 
-=== Zucchetti #h(1fr) 06.2024 — Present
+=== Zucchetti #h(1fr) Jun 2024 — Present
 
 DevOps Engineer
 
+- Manage our internal infrastructure, provisioning machines and deploying services:
+  - Machine and service provisioning through Terraform modules
+  - CI/CD pipelines on self-hosted Jenkins for service deployment
+  - GitHub Actions workflows to build and publish container images
+- Design and implement sandboxed environments and tool harnesses for agentic workflows
+  - Integrating agentic capabilities in our product, simplifying query & data retrieval for our customers
+  - Automated documentation of our product's entire codebase, improving the development teams productivity
 - Designed the architecture and led the migration of the customer-facing PostgreSQL database from a single instance to a container-per-database model:
   - Built a custom PostgreSQL image integrating pgBackRest for scheduled backups to S3-compatible object storage
-  - Planned and carried out customers database migration, validating data integrity and benchmarking performance
-  - Developed a middleware service in Go that allowed development teams to create, delete, and query customer databases through APIs
+  - Developed a middleware service in Go for the development teams to create, delete, and query customer databases through API
   - Defined compute and storage allocations for subscription plans, providing each customer with a minimum allocation of dedicated resources
-- Designed and implemented agentic workflows and supporting tools to automate codebase documentation
-- Managed infrastructure running on VMware vSphere, including machine provisioning and service deployment
-- Designed and implemented CI/CD pipelines on self-hosted Jenkins to automate deployments and fleet management, integrating HashiCorp Vault for secret injection at execution
-- Implemented GitHub Actions workflows to build and publish container images for internal use
-- Configured Kong Gateway to expose internal services to the outside through a shared API gateway
 
 #pagebreak()
 
-=== Keypartner #h(1fr) 07.2022 — 06.2024
+=== Key Partner #h(1fr) Jul 2022 — Jun 2024
 
 DevOps Engineer
 

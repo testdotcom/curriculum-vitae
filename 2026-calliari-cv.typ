@@ -51,8 +51,9 @@
 
 #let links = (
   (icon: "email", link: "mailto:calliari.alessio@gmail.com"),
-  (icon: "gitlab", link: "https://github.com/testdotcom"),
-  (icon: "linkedin", link: "https://www.linkedin.com/in/alessio-calliari"),
+  (icon: "phone", link: "+39 3486774323"),
+  (icon: "github", link: "https://github.com/testdotcom"),
+  (icon: "linkedin", link: "https://linkedin.com/in/alessio-calliari"),
 )
 
 #align(center, text(16pt)[
@@ -76,3 +77,5 @@
 #include "03_education.typ"
 
 #include "04_hobbies.typ"
+
+#include "05_languages.typ"
